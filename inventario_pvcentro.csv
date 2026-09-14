@@ -1,0 +1,32 @@
+producto,categoria,tienda,stock,costo_unitario
+Lamina PVC Blanco Marmol,Cielo Raso,San Gil,51,22724
+Lamina PVC Blanco Marmol,Cielo Raso,Socorro,43,22724
+Lamina PVC Gris Humo,Cielo Raso,San Gil,13,17650
+Lamina PVC Gris Humo,Cielo Raso,Socorro,,17650
+Lamina PVC Blanco Cedro,Cielo Raso,San Gil,68,19075
+Lamina PVC Blanco Cedro,Cielo Raso,Socorro,57,19075
+Teja UPVC Blanco,Techos,San Gil,23,127863
+Teja UPVC Blanco,Techos,socorro,35,127863
+Teja UPVC Azul,Techos,San Gil,9,141609
+Teja UPVC Azul,Techos,Socorro,56,141609
+Teja UPVC Colonial,Techos,San Gil,-5,111463
+Teja UPVC Colonial,Techos,Socorro,12,111463
+Lamina Drywall 1.20x2.40,Drywall,San Gil,69,40165
+Lamina Drywall 1.20x2.40,Drywall,Socorro,1,40165
+  Teja UPVC Azul  ,Drywall,San Gil,30,7891
+Perfil Omega 3m,Drywall,Socorro,21,7891
+Perfil Riel 3m,Drywall,San Gil,61,8531
+Perfil Riel 3m,Drywall,Socorro,27,8531
+Cinta Junta Drywall,Drywall,San Gil,7,5319
+Cinta Junta Drywall,Drywall,Socorro,21,5319
+Tornillo Drywall x100,Ferreteria,San Gil,49,6985
+Tornillo Drywall x100,Ferreteria,Socorro,33,6985
+Estuco en Polvo 25kg,Acabados,San Gil,58,17769
+Estuco en Polvo 25kg,Acabados,Socorro,36,17769
+Silicona Transparente,Ferreteria,San Gil,71,6391
+Silicona Transparente,Ferreteria,Socorro,62,6391
+Perfil Angular PVC,Cielo Raso,San Gil,37,7289
+Perfil Angular PVC,Cielo Raso,Socorro,27,7289
+Lamina PVC Nacional 3566,Cielo Raso,San Gil,74,16585
+Lamina PVC Nacional 3566,Cielo Raso,Socorro,69,16585
+
