@@ -1,0 +1,62 @@
+fecha,tienda,categoria,producto,cantidad,precio_unitario,total
+2026-07-01,Socorro,Acabados,Estuco en Polvo 25kg,8,28000,224000
+2026-07-02,San Gil,Ferreteria,Tornillo Drywall x100,8,9500,76000
+2026-07-04,San Gil,Cielo Raso,Lamina PVC Gris Humo,2,30000,60000
+2026-07-07,San Gil,Cielo Raso,Perfil Angular PVC,2,9800,19600
+2026-07-07,San Gil,Ferreteria,Tornillo Drywall x100,1,9500,9500
+2026-07-08,San Gil,Techos,Teja UPVC Blanco,4,199000,796000
+2026-07-08,San Gil,Techos,Teja UPVC Blanco,1,199000,199000
+2026-07-09,Socorro,Drywall,Lamina Drywall 1.20x2.40,10,54000,540000
+2026-07-09,San Gil,Cielo Raso,Lamina PVC Nacional 3566,4,29500,118000
+2026-07-10,San Gil,Drywall,Cinta Junta Drywall,8,8500,68000
+2026-07-10,San Gil,Acabados,Estuco en Polvo 25kg,2,28000,56000
+2026-07-10,San Gil,Drywall,Perfil Riel 3m,3,11800,35400
+2026-07-12,Socorro,Drywall,Cinta Junta Drywall,1,8500,8500
+2026-07-14,Socorro,Cielo Raso,Lamina PVC Gris Humo,1,30000,30000
+2026-07-15,Socorro,Cielo Raso,Lamina PVC Blanco Marmol,2,32000,64000
+2026-07-17,Socorro,Cielo Raso,Lamina PVC Blanco Cedro,8,33000,264000
+2026-07-21,Socorro,Acabados,Estuco en Polvo 25kg,4,28000,112000
+2026-07-21,Socorro,Ferreteria,Silicona Transparente,10,11000,110000
+2026-07-22,Socorro,Techos,Teja UPVC Azul,2,199000,398000
+2026-07-23,San Gil,Drywall,Perfil Riel 3m,3,11800,35400
+2026-07-25,San Gil,Acabados,Estuco en Polvo 25kg,1,28000,28000
+2026-07-25,San Gil,Cielo Raso,Lamina PVC Gris Humo,5,30000,150000
+2026-07-26,Socorro,Acabados,Estuco en Polvo 25kg,2,28000,56000
+2026-07-29,San Gil,Cielo Raso,Lamina PVC Blanco Cedro,8,33000,264000
+2026-07-29,Socorro,Cielo Raso,Lamina PVC Blanco Cedro,1,33000,33000
+2026-07-29,Socorro,Cielo Raso,Lamina PVC Gris Humo,1,30000,30000
+2026-07-30,Socorro,Ferreteria,Silicona Transparente,1,11000,11000
+2026-07-30,San Gil,Cielo Raso,Perfil Angular PVC,5,9800,49000
+2026-08-01,Socorro,Cielo Raso,Lamina PVC Blanco Cedro,5,33000,165000
+2026-08-01,Socorro,Acabados,Estuco en Polvo 25kg,10,28000,280000
+2026-08-03,San Gil,Ferreteria,Silicona Transparente,6,11000,66000
+2026-08-04,San Gil,Cielo Raso,Lamina PVC Nacional 3566,4,29500,118000
+2026-08-04,Socorro,Ferreteria,Silicona Transparente,1,11000,11000
+2026-08-05,San Gil,Cielo Raso,Lamina PVC Blanco Cedro,4,33000,132000
+2026-08-05,Socorro,Drywall,Perfil Omega 3m,2,12500,25000
+2026-08-07,San Gil,Drywall,Lamina Drywall 1.20x2.40,6,54000,324000
+2026-08-10,Socorro,Techos,Teja UPVC Blanco,5,199000,995000
+2026-08-11,San Gil,Drywall,Perfil Omega 3m,1,12500,12500
+2026-08-15,Socorro,Cielo Raso,Perfil Angular PVC,10,9800,98000
+2026-08-15,Socorro,Drywall,Lamina Drywall 1.20x2.40,6,54000,324000
+2026-08-16,Socorro,Cielo Raso,Lamina PVC Nacional 3566,2,29500,59000
+2026-08-17,San Gil,Techos,Teja UPVC Colonial,3,199000,597000
+2026-08-17,San Gil,Ferreteria,Silicona Transparente,8,11000,88000
+2026-08-21,San Gil,Techos,Teja UPVC Azul,2,199000,398000
+2026-08-21,Socorro,Ferreteria,Tornillo Drywall x100,6,9500,57000
+2026-08-24,Socorro,Cielo Raso,Lamina PVC Nacional 3566,4,29500,118000
+2026-08-27,Socorro,Drywall,Cinta Junta Drywall,1,8500,8500
+2026-08-28,Socorro,Cielo Raso,Lamina PVC Blanco Cedro,2,33000,66000
+2026-08-29,Socorro,Drywall,Perfil Riel 3m,8,11800,94400
+2026-08-30,Socorro,Techos,Teja UPVC Blanco,5,199000,995000
+2026-09-01,San Gil,Cielo Raso,Perfil Angular PVC,8,9800,78400
+2026-09-01,San Gil,Techos,Teja UPVC Blanco,10,199000,1990000
+2026-09-03,San Gil,Drywall,Cinta Junta Drywall,8,8500,68000
+2026-09-03,San Gil,Drywall,Cinta Junta Drywall,2,8500,17000
+2026-09-05,San Gil,Drywall,Perfil Omega 3m,2,12500,25000
+2026-09-06,San Gil,Cielo Raso,Lamina PVC Nacional 3566,10,29500,295000
+2026-09-07,Socorro,Cielo Raso,Lamina PVC Gris Humo,1,30000,30000
+2026-09-08,San Gil,Ferreteria,Silicona Transparente,3,11000,33000
+2026-09-09,Socorro,Techos,Teja UPVC Azul,10,199000,1990000
+2026-09-09,San Gil,Techos,Teja UPVC Blanco,1,199000,199000
+
